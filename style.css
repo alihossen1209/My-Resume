@@ -132,4 +132,8 @@ footer {
   .section h2 {
     font-size: 20px;
   }
+
+  .card p {
+    font-size: 14px;
+  }
 }
